@@ -1,1 +1,2 @@
 This file contains configuration related to s3 json
+Additional line to valiate if tags track config changes and not just code
